@@ -1,6 +1,4 @@
 # festek
-meow
-ehes vok
-nem
-netorolgesd
-
+Falusi Ramón
+Szilágyi Levente
+Varga Viktor
