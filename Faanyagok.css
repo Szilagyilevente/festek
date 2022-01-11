@@ -1,7 +1,11 @@
-div, menüoldal{
+#menüoldal{
     background-color: blue;
-    color: white
+    color: white;
+    padding: 15px;
 }
 h1, faanyag{
     text-align: center;
+}
+body{
+    background-image: url("szerszamok_esuxx84f.png");
 }
