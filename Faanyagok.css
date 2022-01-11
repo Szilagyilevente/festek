@@ -1,11 +1,17 @@
-#menüopanel{
+#menüpanel{
     background-color: blue;
     color: white;
     padding: 15px;
 }
-h1, faanyag{
+.faanyag{
     text-align: center;
 }
 body{
     background-image: url("szerszamok_esuxx84f.png");
+}
+#nev{
+    color: white;
+    background-color: blue;
+    max-width: 80px;
+    
 }
