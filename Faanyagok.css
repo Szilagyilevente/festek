@@ -31,8 +31,12 @@ head{
     float: right;
 }
 p{
-    color: white
+    color: black;
 }
 .cim{
     color: white;
+}
+.SS{
+    background-color: white;
+    opacity: 0.6;
 }
