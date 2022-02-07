@@ -1,28 +1,9 @@
-.Blokk1{
-    margin: 50px;
-    border: black;
-}
-.Blokk2{
-    margin: 50px;
-}
-.Blokk3{
-    margin: 50px;
-}
-.Blokk4{
-    margin: 50px;
-}
-.Blokk5{
-    margin: 50px;
-}
-.Blokk6{
-    margin: 50px;
-}
-.Blokk7{
-    margin: 50px;
-}
-.Blokk8{
-    margin: 50px;
-}
+
+.egesz{
+    background-color: white;
+    opacity: 0.6;
+    color: black;
+}       
 #menüpanel{
     background-color: blue;
     color: white;
