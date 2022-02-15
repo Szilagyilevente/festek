@@ -1,6 +1,6 @@
 #menüpanel{
-    background-color: white;
-    color: black;
+    background-color: blue;
+    color: white;
     padding: 15px;
     opacity: 0.6;
 }
@@ -48,6 +48,4 @@ p{
     background-color: white;
     opacity: 0.6;
     color: black;
-}.rolunk{
-    color: black
 }
